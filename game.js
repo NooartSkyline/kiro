@@ -28,8 +28,8 @@ const CONFIG = {
 
     // สี
     BG_COLOR: '#87CEEB',
-    PIPE_COLOR: '#2E8B57',
-    PIPE_CAP_COLOR: '#3CB371',
+    PIPE_COLOR: '#DAA520',
+    PIPE_CAP_COLOR: '#FFD700',
     SCORE_BAR_BG: 'rgba(0, 0, 0, 0.7)',
 
     // Red Gate (Impossible Mode)
